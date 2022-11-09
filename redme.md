@@ -1,3 +1,1 @@
-this is my first reposutory
-#header 1
-##header 2
+this is my first repository containing the assignments of principles of computer science 2
